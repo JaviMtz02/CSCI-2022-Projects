@@ -1,0 +1,11 @@
+a{
+  background-color: #6789
+}
+.selector{
+  background:linear-gradient(to bottom, #87CEEB, #1E90FF)
+}
+body{
+  margin-top: 15px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
